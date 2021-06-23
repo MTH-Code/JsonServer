@@ -2,17 +2,14 @@
   "Users": [
     {
       "id": 1,
-      "email": "user1@email.com",
+      "name": "حسن",
+      "lastName":"کریمی",
+      "gender":"مرد",
       "mobile": "9144002261",
+      "B.D":"1368-06-12",
       "password": "password",
-      "userToken": "token123"
-    },
-    {
-      "id": 2,
-      "email": "user1@email.com",
-      "mobile": "09143002261",
-      "password": "password123",
-      "userToken": "token123"
+      "userToken": "token123",
+      "address" : "یبیسبسیبیبسیبیبسبیسبیبیبیسبیسبسبسیبس"
     }
   ]
 }
