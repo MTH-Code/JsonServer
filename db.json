@@ -1,7 +1,7 @@
 {
   "Users": [
     {
-      "Id": 1,
+      "id": 1,
       "userName": "حسن",
       "lastName":"کریمی",
       "gender":"مرد",
@@ -14,7 +14,7 @@
   ],
     "Users": [
     {
-      "Id": 5,
+      "id": 5,
       "userName": "حسن",
       "lastName":"کریمی",
       "gender":"مرد",
